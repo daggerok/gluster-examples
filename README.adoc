@@ -1,3 +1,8 @@
 = Glusterfs examples
 
 . link:01-gluster-docker-containers/[start gluster docker container]
+. link:02-gluster-trusted-pull/[gluster cluster peers]
+
+links:
+
+. link:https://www.youtube.com/watch?v=4Xf8pmDEZYw&list=PLjokYq9Sm90mGnLvC71nL8eQQrZZIadye[YouTube: Heaven Humble Chirammal]

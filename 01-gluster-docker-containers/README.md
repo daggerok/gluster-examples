@@ -67,5 +67,5 @@ docker inspect glusterfs
 
 links:
 
-. link:https://www.slideshare.net/HumbleChirammal/gluster-containers[slides]
-. link:https://www.youtube.com/watch?v=4Xf8pmDEZYw[youtube]
+- [slides](https://www.slideshare.net/HumbleChirammal/gluster-containers)
+- [youtube](https://www.youtube.com/watch?v=4Xf8pmDEZYw)
