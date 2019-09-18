@@ -3,6 +3,10 @@
 . link:01-gluster-docker-containers/[start gluster docker container]
 . link:02-gluster-trusted-pull/[gluster cluster peers]
 
-links:
+_links:_
 
 . link:https://www.youtube.com/watch?v=4Xf8pmDEZYw&list=PLjokYq9Sm90mGnLvC71nL8eQQrZZIadye[YouTube: Heaven Humble Chirammal]
+
+_TODO:_
+
+* link:https://www.youtube.com/watch?v=ZebqIAuf8vU[k8s glusterfs storage - YouTube: Dynamic Provisioning of Container-Native Storage on Red Hat OpenShift Container Platform 3.4]
